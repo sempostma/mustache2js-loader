@@ -1,5 +1,5 @@
 {
-  "name": "html2js-loader",
+  "name": "mustache2js-loader",
   "version": "1.0.0",
   "description": "",
   "scripts": {

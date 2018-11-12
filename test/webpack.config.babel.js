@@ -10,7 +10,7 @@ module.exports = {
     },
     module: {
         rules: [{
-            test: /\.html$/,
+            test: /\.mustache$/,
             use: {
                 loader: path.resolve(__dirname, '../index'),
                 options: { }
