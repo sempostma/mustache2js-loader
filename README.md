@@ -5,7 +5,7 @@
   </a>
   <a href="https://mustache2js.esstudio.site">
     <img width="200" height="200" vspace="" hspace="25"
-      src="https://html2js.esstudio.site/android-chrome-256x256.png">
+      src="https://mustache2js.esstudio.site/android-chrome-256x256.png">
   </a>
 </div>
 
@@ -13,9 +13,10 @@
 
 Exports Mustache files to javascript instructions.
 
-![license][license]
-![issues][issues]
-![twitter][twitter]
+[![GitHub license](https://img.shields.io/github/license/LesterGallagher/mustache2js-loader.svg)](https://github.com/LesterGallagher/mustache2js-loader/blob/master/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues/LesterGallagher/mustache2js-loader.svg)](https://github.com/LesterGallagher/mustache2js-loader/issues)
+[![Twitter](https://img.shields.io/twitter/url/https/www.npmjs.com/package/mustache2js-loader.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmustache2js-loader)
+
 
 ## Install
 
@@ -37,8 +38,5 @@ Add the mustache2js-loader to your webpack.config.js.
 }
 ```
 
-I you just need to load static html snippets, try: [html2js-loader](https://www.npmjs.com/package/html2js-loader)
+I you just need to load static html snippets, try: [html2js-loader](https://www.npmjs.com/package/mustache2js-loader)
 
-[twitter]: https://img.shields.io/twitter/url/https/www.npmjs.com/package/mustache2js-loader.svg?style=social
-[issues]: https://img.shields.io/github/issues/LesterGallagher/mustache2js-loader.svg
-[license]: https://img.shields.io/github/license/LesterGallagher/mustache2js-loader.svg

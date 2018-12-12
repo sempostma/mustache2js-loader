@@ -1,6 +1,6 @@
 {
   "name": "mustache2js-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Loads mustache files as javascript functions",
   "scripts": {
     "test": "jest",
