@@ -1,14 +1,14 @@
 {
   "name": "mustache2js-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Loads mustache files as javascript functions",
   "scripts": {
     "test": "jest",
     "webpack": "webpack"
   },
   "main": "index.js",
   "author": "Sem Postma",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "jsdom": "^13.0.0",
     "loader-utils": "^1.1.0",
