@@ -9,7 +9,7 @@
   </a>
 </div>
 
-# mustache-loader
+# mustache2js-loader
 
 Exports Mustache files to javascript instructions.
 
