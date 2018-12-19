@@ -1,7 +1,7 @@
 const path = require('path');
 const webpack =  require('webpack');
 const memoryfs = require('memory-fs');
-const webpackConfig = require('./webpack.config.babel');
+const webpackConfig = require('./webpack.config.js');
 
 module.exports = (fixture, options = {}) => {
   const compiler = webpack(webpackConfig);
