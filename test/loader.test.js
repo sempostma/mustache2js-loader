@@ -15,5 +15,7 @@ test('Inserts Mustache and outputs JavaScript', async () => {
 
   expect(output.tagName).toBe(ref.tagName);
   expect(output.children.length).toBe(ref.children.length);
-  expect(output.querySelector('img').src).toBe(ref.querySelector('img').src);
+  expect(output.querySelector('img').getAttribute('src')).toBe('https://html2js.esstudio.site/android-chrome-256x256.png');
+  expect(output.querySelector('a').getAttribute('title')).toBe('Title: HTML2JS is Awesome');
+  expect(output.querySelector('h2').innerHTML).toBe('HTML2JS is Awesome');
 });
