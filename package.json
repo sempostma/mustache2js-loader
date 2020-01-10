@@ -25,9 +25,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LesterGallagher/mustache2js-loader.git"
+    "url": "https://github.com/sempostma/mustache2js-loader.git"
   },
-  "homepage": "https://github.com/LesterGallagher/mustache2js-loader",
+  "homepage": "https://github.com/sempostma/mustache2js-loader",
   "keywords": [
     "mustache",
     "javascript",
