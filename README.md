@@ -13,8 +13,8 @@
 
 Exports Mustache files to javascript instructions.
 
-[![GitHub license](https://img.shields.io/github/license/LesterGallagher/mustache2js-loader.svg)](https://github.com/LesterGallagher/mustache2js-loader/blob/master/LICENSE.txt)
-[![GitHub issues](https://img.shields.io/github/issues/LesterGallagher/mustache2js-loader.svg)](https://github.com/LesterGallagher/mustache2js-loader/issues)
+[![GitHub license](https://img.shields.io/github/license/sempostma/mustache2js-loader.svg)](https://github.com/sempostma/mustache2js-loader/blob/master/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues/LesterGallagher/mustache2js-loader.svg)](https://github.com/sempostma/mustache2js-loader/issues)
 [![Twitter](https://img.shields.io/twitter/url/https/www.npmjs.com/package/mustache2js-loader.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmustache2js-loader)
 
 
